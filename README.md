@@ -11,4 +11,4 @@ Error messages are written to stderr.
 
 iso image built with plain header.
 
-In order to generate Redump.org verified encrypted iso image you need PS3Dec utility and dkey / disc key for iso encryption.
+In order to generate Redump.org verified encrypted iso image you need [PS3Dec](https://github.com/al3xtjames/PS3Dec) utility and dkey / disc key for iso encryption.
